@@ -1,0 +1,10 @@
+{
+    "name": "harness-minikube-lab",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "test": "node -e \"process.exit(0)\"",
+      "start": "node app.js"
+    }
+  }
+  
