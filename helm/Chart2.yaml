@@ -19,7 +19,7 @@ service:
                   branch: main
               subChartPath: ""
               valuesPaths:
-                - values.yaml
+                - helm/values.yaml
               skipResourceVersioning: false
               enableDeclarativeRollback: false
               helmVersion: V2
